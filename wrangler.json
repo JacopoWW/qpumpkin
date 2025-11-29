@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "qpumpkin",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1a8a03c9-444e-4e6c-b93a-140d03306c05",
+      "database_name": "qply_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
